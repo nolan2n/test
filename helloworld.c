@@ -2,7 +2,7 @@
 
 void    helloworld(void)
 {
-    write (1, "maeleen la boss", 15);
+    write (1, "hello world", 11);
 }
 
 int     main(void)
